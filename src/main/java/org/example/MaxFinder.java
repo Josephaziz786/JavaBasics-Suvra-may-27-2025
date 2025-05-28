@@ -2,8 +2,8 @@ package org.example;
 
 public class MaxFinder {
     public static void main(String[] args) {
-        int a = 25;
-        int b = 20;
+        int a = 10;
+        int b = 15;
         int max = findMax(a, b);
         System.out.println("Maximum is: " + max);
     }
