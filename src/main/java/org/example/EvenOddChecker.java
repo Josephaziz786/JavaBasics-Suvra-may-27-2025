@@ -2,7 +2,7 @@ package org.example;
 
 public class EvenOddChecker {
     public static void main(String[] args) {
-        int number = 10; // Try changing this number and debug
+        int number = 20; // Try changing this number and debug
         checkEvenOdd(number);
     }
 
